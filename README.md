@@ -1,6 +1,5 @@
 # kids-garden-website
 your kids will thank you ,when they will grow up.
-[blackbox-output-code-YE5MT5MEGB.html](https://github.com/user-attachments/files/27042667/blackbox-output-code-YE5MT5MEGB.html)
 <!DOCTYPE html>
 <html lang="en">
 <head>
